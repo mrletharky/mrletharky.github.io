@@ -1,0 +1,23 @@
+<!-- can input
+
+  {% include navbar.html %}
+
+  where nav usually goes to split up layout
+-->
+
+
+<nav>
+  <!-- for the RSS feed -->
+  
+  <link rel="alternate" type="application/rss+xml"  href="{{ site.url }}/feed.xml" title="{{ site.title }}">
+
+  <!-- Reads the pages made for the site and input -->
+
+  <ul>
+    {% assign mypages = site.pages | sort: "order" %}
+      {% for page in mypages %}
+      <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
+      {% endfor %}
+  </ul>
+
+</nav>

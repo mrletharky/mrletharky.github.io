@@ -1,0 +1,7 @@
+name: MR Letharky
+title: MR Letharky
+description:
+plugins:
+  - jekyll-sitemap
+  
+url: http://mrletharky.github.io
