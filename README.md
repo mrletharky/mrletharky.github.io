@@ -1,6 +1,6 @@
-#MR Letharky
+# MR Letharky
 
-###mrletharky.github.io
+### mrletharky.github.io
 
 Site for web development practice and personal random blogging.
 
