@@ -1,0 +1,19 @@
+.content {
+  padding: 60px;
+  width: 600px;
+}
+
+* {
+  font-family: Avenir Next;
+}
+
+#banner {
+
+}
+
+.navigation {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  letter-spacing: 3px;
+}
