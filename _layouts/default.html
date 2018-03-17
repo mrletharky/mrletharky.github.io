@@ -15,32 +15,30 @@
   </head>
 
   <body>
-    <nav>
 
-      <link rel="alternate" type="application/rss+xml"  href="{{ site.url }}/feed.xml" title="{{ site.title }}">
-
-      <!-- Reads the pages made for the site and input -->
-
+    <div class="navigation">
       <ul>
-        <!-- {% assign mypages = site.pages | sort: "order" %}
-          {% for page in mypages %}
-          <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
-          {% endfor %} -->
-        <a href="index.md">Home</a>
-        <a href="about.md">About</a>
-        <a href="blog.md">Posts</a>
-
+        <li><a href="./index.html">Home</a></li>
+        <li><a href="./contact.html">About</a></li>
+        <li><a href="./aboutme.html">Posts</a></li>
       </ul>
-
-    </nav>
-    <div id="banner">
-
     </div>
+
+    <div id="banner">
+      <img src="banner_temp_pic copy.jpeg">
+      <div class="banner-title"> Post-Bac Nomad </div>
+    </div>
+
     <div class="content">
-      <h1> {{ page.title }} </h1>
 
       {{ content }}
-  </div>
+
+    </div>
+
+    <div class="footer">
+      <p> (C) MR Letharky 2018 </p>
+    </div>
+
   </body>
 
 </html>
