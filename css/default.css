@@ -67,3 +67,18 @@ a {
   height: auto;
   width: auto;
 }
+
+.footer {
+  position: absolute;
+  width: 100%;
+  border: 1px solid #E6E6E6;
+
+  background-color: white;
+  color: #BFBFBF;
+  font-family: Avenir;
+}
+
+.footer p {
+  text-align: right;
+  padding-right: 40px;
+}
