@@ -48,13 +48,14 @@ a {
 }
 
 #banner {
-  /* MAX Height @ 587px */
+  /* MAX Height @ 587px maybe?? */
+  background-image: banner_temp_pic.jpeg;
   height: auto;
-  width: 1180px;
+  width: auto;
 }
 
 .banner-title {
-  position: absolute;
+  position: relative; /* hopefully stops it from following the scroll */
   bottom: 8px;
   right: 16px;
   font-size: 60px;
