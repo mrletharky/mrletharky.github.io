@@ -52,13 +52,13 @@ a {
   height: auto;
   width: 100%;
   position: relative;
-  text-align: center;
+  text-align: right;
 }
 
 .banner-title {
-  position: relative; /* hopefully stops it from following the scroll */
-  bottom: 20px;
-  right: 50px;
+  position: absolute; /* hopefully stops it from following the scroll */
+  bottom: 8px;
+  right: 20px;
   font-size: 50px;
   font-family: Avenir Next Medium;
 }
@@ -71,9 +71,16 @@ a {
   width: auto;
 }
 
-.myposts li{
-  position: fixed;
+.myposts {
+  padding: 0;
+}
+
+.myposts ul{
   list-style-type: none;
+}
+
+.myposts li{
+  position: absolute;
   height: 400px;
   width: 300px;
   border: 3px solid #f2f2f2;
