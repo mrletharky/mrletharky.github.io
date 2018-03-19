@@ -31,14 +31,14 @@
       <div class="banner-title"> MR Letharky </div>
     </div>
 
-    <div class="myposts">
+    <div class="card">
 
-        <ul class="cards">
+        <ul class="myposts">
         {% for post in site.posts %}
             <li><a href="{{ post.url }}">{{ post.title}}</a>
               <br>
-          <!--  <div class="postimg">
-              <img src=""> -->
+            <div class="postimg">
+              <img src="/media/waddles_temp.png">
             </div>
               <br>
             <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
