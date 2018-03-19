@@ -1,15 +1,62 @@
----
-layout: default
----
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+
+    <title>
+      {{ site.title }} | {{ page.title }}
+    </title>
+
+    {% include home-style.html %}
+
+    <!-- CSS style stuff goes in default-style.html of _layouts section -->
+
+  </head>
+
+  <body>
+
+    <div class="navigation">
+
+      <ul>
+        <li><a href="./index.html">Home</a></li>
+        <li><a href="./about.html">About</a></li>
+        <li><a href="./blog.html">Post Archive</a></li>
+      </ul>
+
+    </div>
+
+    <div class="banner">
+      <img src="/media/banner_temp_pic_resize.jpeg">
+      <div class="banner-title"> MR Letharky </div>
+    </div>
+
+    <div class="myposts">
+
+        <ul class="cards">
+        {% for post in site.posts %}
+            <li><a href="{{ post.url }}">{{ post.title}}</a>
+              <br>
+          <!--  <div class="postimg">
+              <img src=""> -->
+            </div>
+              <br>
+            <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
+            </li>
+        {% endfor %}
+        </ul>
+
+      <!-- {{ content }}  -->
+
+    </div>
+
+    <div class="footer">
+      <p> (C) MR Letharky 2018 </p>
+    </div>
+
+  </body>
+
+</html>
+
 
 <!-- Using default layout, displays the posts in the posts folder -->
-
-  {{ content }}
-
-  <ul class="myposts">
-  {% for post in site.posts %}
-      <li><a href="{{ post.url }}">{{ post.title}}</a>
-      <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
-      </li>
-  {% endfor %}
-  </ul>
