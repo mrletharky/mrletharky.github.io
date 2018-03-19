@@ -72,16 +72,24 @@ a {
 }
 
 .myposts li{
+  position: fixed;
   list-style-type: none;
-  height: 500px;
+  height: 400px;
   width: 300px;
   border: 3px solid #f2f2f2;
   padding: 20px;
   margin-top: 20px;
+  text-align: center;
+}
+
+img {
+  max-height: 100%;
+  max-width: 100%;
 }
 
 .postimg {
   height: 200px;
+  width: 150px;
 }
 
 /* .card {
