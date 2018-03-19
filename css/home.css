@@ -52,7 +52,7 @@ a {
   height: auto;
   width: 100%;
   position: relative;
-  text-align: right;
+  text-align: center;
 }
 
 .banner-title {
@@ -89,10 +89,10 @@ a {
   text-align: center;
 }
 
-img {
+/*img {
   max-height: 100%;
   max-width: 100%;
-}
+}  */
 
 .postimg {
   padding: 10px;
