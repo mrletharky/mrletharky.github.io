@@ -88,8 +88,9 @@ img {
 }
 
 .postimg {
-  height: 200px;
-  width: 150px;
+  padding: 10px;
+  height: auto;
+  width: 100%;
 }
 
 /* .card {
