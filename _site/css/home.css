@@ -69,10 +69,12 @@ a {
   margin: 40px;
   height: auto;
   width: auto;
+  align-items: center;
 }
 
 .myposts li {
   padding: 40px;
+  margin: 20px;
   list-style-type: none;
   display: inline-block;
 }
