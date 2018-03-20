@@ -10,7 +10,7 @@
 
     {% include home-style.html %}
 
-    <!-- CSS style stuff goes in home-style.html of _layouts section -->
+    <!-- CSS style stuff goes in post-style.html of _layouts section -->
 
   </head>
 
@@ -26,25 +26,17 @@
 
     </div>
 
-    <div class="banner">
+    <!-- <div class="banner">
       <img src="/media/banner_temp_pic_resize.jpeg">
       <div class="banner-title">MR Letharky</div>
-    </div>
+    </div>  -->
 
     <div class="content">
 
-        <ul class="myposts">
-          {% for post in site.posts %}
-            <li class="card"><a href="{{ post.url }}">{{ post.title}}</a>
-              <br>
-              <!-- <div class="postimg">
-                 <img src="/media/waddles_temp.png">
-              </div>*/  -->
-              <br>
-              <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
-            </li>
-          {% endfor %}
-        </ul>
+      <h3> {{ page.title }} </h3>
+      <h6> {{ post.date | date: "%b %-d, %Y" }} </h6>
+
+        {{ content }}
 
     </div>
 
