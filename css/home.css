@@ -57,8 +57,8 @@ a {
 
 .banner-title {
   position: absolute; /* hopefully stops it from following the scroll */
-  bottom: 8px;
-  right: 20px;
+  bottom: 20px;
+  right: 50px;
   font-size: 50px;
   font-family: Avenir Next Medium;
 }
