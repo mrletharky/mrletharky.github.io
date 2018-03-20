@@ -72,7 +72,7 @@ a {
 }
 
 .myposts li {
-  padding: 0;
+  padding: 40px;
   list-style-type: none;
   display: inline-block;
 }
