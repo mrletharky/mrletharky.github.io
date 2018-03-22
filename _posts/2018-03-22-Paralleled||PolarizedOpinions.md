@@ -1,6 +1,6 @@
 ---
 title: Paralleled || Polarized Opinions
-layout: default
+layout: post
 ---
 
 Ok, I was really hoping not to vent on here (especially so soon), but I’m really frustrated.
@@ -13,4 +13,4 @@ What really messed me up (trying not to cuss here), was that when one of my hous
 
 Is my general silence a sign for everyone to ignore me and the thoughts I want to share for once?  
 
-What makes someone more worthy of being listened to? 
+What makes someone more worthy of being listened to?

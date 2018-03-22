@@ -1,6 +1,6 @@
 ---
 title: CHEF'S TABLE
-layout: default
+layout: post
 ---
 
 Netflix apparently first released the <em>Chef’s Table</em> docuseries in 2015. I started watching it today. Literally 3 hours ago. Y’all don’t know how much I love food. Y'all don't even know how much I love art. So the combination of the two, in regards to the videography of the food itself, touches my soul. Thanks for introducing this series to me, DK.
