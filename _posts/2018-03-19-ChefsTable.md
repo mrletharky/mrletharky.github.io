@@ -25,4 +25,4 @@ I am only a few minutes into the piece on Nancy Silverton, but I have a great re
 I have always seen food as art. And have appreciated the aesthetic appeal and effort that chefs put into creating their dish, but the way every shot, in these episodes, was taken…just adds to the beauty, in my opinion. Because you get to see the way in which these chefs, these artists, deliberately place every ingredient. It’s utterly beautiful. I can’t wait to see more chefs-d’oeuvre culinaires.
 
 
-###### Photos were taken from the website of their respective chefs.
+###### **Photos were taken from the website of their respective chefs.
