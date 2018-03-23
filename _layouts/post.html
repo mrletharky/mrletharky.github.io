@@ -33,8 +33,8 @@
 
     <div class="content">
 
-      <h3> {{ page.title }} </h3>
-      <h6> {{ post.date | date: "%A, %-d %B %Y" }} </h6>
+      <h1> {{ page.title }} </h1>
+      <h6 id="date"> {{ post.date | date: "%A, %-d %B %Y" }} </h6>
       <!-- -d indicates the day, B indicates the month (full or partial), and Y indicates the year -->
 
       <br>
