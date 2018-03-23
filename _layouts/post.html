@@ -18,13 +18,11 @@
 
     <div class="navigation">
 
-      <!-- <ul>
+      <ul>
         <li><a href="./index.html">Home</a></li>
         <li><a href="./about.html">About</a></li>
         <li><a href="./blog.html">Post Archive</a></li>
-      </ul>  -->
-
-      {% include navbar.html %}
+      </ul>
 
     </div>
 
@@ -36,7 +34,9 @@
     <div class="content">
 
       <h3> {{ page.title }} </h3>
-      <h6> {{ post.date | date: "%b %-d, %Y" }} </h6>
+      <h6> {{ post.date | date: "%A, %-d %B %Y" }} </h6>
+      <!-- -d indicates the day, B indicates the month (full or partial), and Y indicates the year -->
+
       <br>
       <br>
 

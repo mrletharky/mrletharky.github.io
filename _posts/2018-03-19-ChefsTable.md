@@ -21,4 +21,7 @@ Next we saw Dan Barber of [Blue Hill](https://www.bluehillfarm.com/team/dan-barb
 I am only a few minutes into the piece on Nancy Silverton, but I have a great respect for her diligence in searching for the best methods in doing, and finding the best blend of ingredients. The attention to the crumbs, fermentation bubbles, or even the oven spray - the details. Undergoing many trials without faltering, the effort is what I believe breeds success.
 
 
-I have always seen food as art. And have appreciated the aesthetic appeal and effort that chefs put into creating their dish, but the way every shot, in these episodes, was taken…adds to the beauty, in my opinion. Because you get to see the way in which these chefs, these artists, deliberately place every ingredient. It’s utterly beautiful. I can’t wait to see more chef-d’oeuvre culinaire.
+I have always seen food as art. And have appreciated the aesthetic appeal and effort that chefs put into creating their dish, but the way every shot, in these episodes, was taken…just adds to the beauty, in my opinion. Because you get to see the way in which these chefs, these artists, deliberately place every ingredient. It’s utterly beautiful. I can’t wait to see more chefs-d’oeuvre culinaires.
+
+
+###### Photos were taken from the website of their respective chefs.

@@ -47,9 +47,9 @@ a {
   /* distance between li's */
 }
 
-.banner {    /* made into CLASS */
+/*.banner {    /* made into CLASS */
   /* background-image: banner_temp_pic.jpeg; */
-  height: auto;
+/*  height: auto;
   width: 100%;
   position: relative;
   text-align: center;
@@ -57,11 +57,11 @@ a {
 
 .banner-title {
   position: absolute; /* hopefully stops it from following the scroll */
-  bottom: 8px;
+/*  bottom: 8px;
   right: 20px;
   font-size: 50px;
   font-family: Avenir Next Medium;
-}
+}  */
 
 .content {
   padding: 30px;
@@ -98,7 +98,7 @@ a {
 img {
   max-height: 400px;
   max-width: 700px;
-  align-content: center;
+  text-align: center;
 }
 
 /* .card {
