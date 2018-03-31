@@ -8,7 +8,7 @@ My Spring Break began at 3pm on Friday, March 23, 2018. It also marked the end o
 
 It was really great so far. We were lazy for the first two days or so, staying in bed, watching Netflix, hanging out on the couch with the cat. I would say it was well-deserved. One of the days we went to the library and read in the park. It was beautiful. It wasn’t too cold, and laying out in the sun together made everything feel peaceful.
 
-However, the fact that we’ve been called relationship goals by two different people (who do not know one another) over the course of two days kind of gives me life. Mostly because I don’t see it, but also because it’s interesting to think of what other people find desirable.
+> However, the fact that we’ve been called relationship goals by two different people (who do not know one another) over the course of two days kind of gives me life. Mostly because I don’t see it, but also because it’s interesting to think of what other people find desirable.
 
 On Monday (March 26th), we planned an entire day since we’re horrible at keeping up with possible things to do, especially if we try to play it by ear. So on Tuesday, we went to the Crocker Art Museum in Sacramento, with DK. It was so much fun. Ugh, I LOVE museums. I love walking around and looking at various works of art from different time periods and cultures, in different mediums and styles. Even the way the museum is designed, separate from the actual pieces, gives me so much joy. We got some cute pictures. My girl kept avoiding the camera, but sneakily took pictures of me. Too much.
 
