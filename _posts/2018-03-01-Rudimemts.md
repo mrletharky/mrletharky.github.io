@@ -1,7 +1,7 @@
 ---
 title: Rudiments
 layout: post
-date: 03-01-2018
+date: 2018-03-01
 ---
 
 This web project of mine was first conceived with the idea that I would develop my HTML and CSS skills. Considering that this site is powered by Jekyll, I have also decided to understand the basic workings of it, at the very least.

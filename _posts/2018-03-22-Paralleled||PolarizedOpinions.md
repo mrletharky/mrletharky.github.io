@@ -1,7 +1,7 @@
 ---
 title: Paralleled || Polarized Opinions
 layout: post
-date: 03-22-2018
+date: 2018-03-22
 ---
 
 Ok, I was really hoping not to vent on here (especially so soon), but I’m really frustrated.
