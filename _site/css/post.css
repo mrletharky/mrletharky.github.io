@@ -71,7 +71,6 @@ a {
   width: 60%;
   align-content: center;
   font-family: Avenir;
-  line-height: 20px;
   font-size: 16px;
 }
 
@@ -84,7 +83,8 @@ h1 {
 }
 
 p {
-  padding: 20px;
+  padding: 0px 20px;
+  line-height: 20px;
 }
 
 /*.myposts li {
