@@ -4,42 +4,42 @@
     
     <url>
         <loc>/about.html</loc>
-        <lastmod>2018-04-03</lastmod>
+        <lastmod>2018-05-18</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>/blog.html</loc>
-        <lastmod>2018-04-03</lastmod>
+        <lastmod>2018-05-18</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>/feed.xml</loc>
-        <lastmod>2018-04-03</lastmod>
+        <lastmod>2018-05-18</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>/</loc>
-        <lastmod>2018-04-03</lastmod>
+        <lastmod>2018-05-18</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>/sitemap.xml</loc>
-        <lastmod>2018-04-03</lastmod>
+        <lastmod>2018-05-18</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>/robots.txt</loc>
-        <lastmod>2018-04-03</lastmod>
+        <lastmod>2018-05-18</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
@@ -47,29 +47,36 @@
 
     
     <url>
+        <loc>/2018/05/18/Expectations_Reality.html</loc>
+        <lastmod>2018-05-18</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
         <loc>/2018/03/30/TheEndMovies.html</loc>
-        <lastmod>2018-04-03</lastmod>
+        <lastmod>2018-05-18</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>/2018/03/22/Paralleled-PolarizedOpinions.html</loc>
-        <lastmod>2018-04-03</lastmod>
+        <lastmod>2018-05-18</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>/2018/03/19/ChefsTable.html</loc>
-        <lastmod>2018-04-03</lastmod>
+        <lastmod>2018-05-18</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>/2018/03/01/Rudimemts.html</loc>
-        <lastmod>2018-04-03</lastmod>
+        <lastmod>2018-05-18</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
